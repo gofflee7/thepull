@@ -1,0 +1,3 @@
+london
+bangkok
+amsterdam
